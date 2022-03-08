@@ -9089,8 +9089,34 @@ body.dark .ac-title {
     padding-top: 120px;
 }
 
+.btn-see-more{
+    background: #ebebeb;
+    border: none;
+    padding: 20px 50px;
+    border-radius: 2.25em;
+    -webkit-border-radius: 2.25em;
+    -moz-border-radius: 2.25em;
+    -ms-border-radius: 2.25em;
+    -o-border-radius: 2.25em;
+}
 
+.content-buttom-35{
+    display: block;
+    float: left;
+    width: 35%;
+    height: 100%
+}
 
+.container-buttom{
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    height: 100%;
+}
+
+.container-buttom > a{
+    margin-bottom: 6em;
+}
 
 /*------------------------------------------------------------------
 # Responsive
